@@ -18,7 +18,6 @@ public class GitPractice {
 
    public static void groupMember1() {
       System.out.println("Duc");
-      System.out.println("Hoang");
    }
 
    public static void groupMember2() {
@@ -26,7 +25,7 @@ public class GitPractice {
    }
 
    public static void groupMember3() {
-      // TODO: Group Member 3 (if you have a group of 3), place your code here
+      System.out.println("Hoang");
    }
 
    public static void mergeConflictArea() {
